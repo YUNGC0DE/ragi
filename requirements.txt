@@ -1,0 +1,13 @@
+ragbuilder>=0.1.0
+langchain-huggingface>=0.0.3
+langchain-google-genai>=0.0.5
+sentence-transformers>=2.2.2
+torch>=2.0.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+unstructured>=0.10.0
+chromadb>=0.4.0
+faiss-cpu>=1.7.4
+pydantic>=2.0.0
+fastapi>=0.100.0
+uvicorn>=0.23.0 
